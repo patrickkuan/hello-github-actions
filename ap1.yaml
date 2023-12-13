@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: nginx-cd-from-git-chage
+  name: nginx-cd-from-git-chage222
   namespace: default
 spec:
   replicas: 2
